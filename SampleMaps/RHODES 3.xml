@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="RHODES 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="70" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p A#3.aif" Duplicate="0"
+          SampleStart="20297" Normalized="0" NormalizedPeak="12.0985" Volume="6"
+          SampleStartMod="240000" MonolithOffset="0" MonolithLength="491520"
+          SampleRate="48000"/>
+</samplemap>

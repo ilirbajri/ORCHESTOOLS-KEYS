@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="XYLO 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="72" LoKey="68" HiKey="75" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C4_ff_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" Pan="-35" MonolithOffset="0"
+          MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="72" LoKey="0" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C4_pp_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" Pan="-50" Volume="5" MonolithOffset="114688"
+          MonolithLength="122880" SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="87" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C5_ff_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" MonolithOffset="237568" MonolithLength="73728"
+          SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="87" LoVel="0" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C5_pp_01_far.wav"
+          Duplicate="1" Volume="2" SampleStartMod="1000" MonolithOffset="311296"
+          MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="99" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C6_ff_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" MonolithOffset="409600" MonolithLength="73728"
+          SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="99" LoVel="0" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C6_pp_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" MonolithOffset="483328" MonolithLength="94208"
+          SampleRate="44100"/>
+  <sample Root="108" LoKey="106" HiKey="127" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C7_ff_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" Pan="50" MonolithOffset="577536"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="108" LoKey="106" HiKey="127" LoVel="0" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_C7_pp_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" Pan="50" MonolithOffset="634880"
+          MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="79" LoKey="76" HiKey="81" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_G4_ff_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" MonolithOffset="737280" MonolithLength="98304"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="68" HiKey="81" LoVel="0" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_G4_pp_01_far.wav"
+          Duplicate="1" Volume="4" Pan="25" SampleStartMod="1000" MonolithOffset="835584"
+          MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="91" LoKey="88" HiKey="93" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_G5_ff_01_far.wav"
+          Duplicate="1" Pan="40" SampleStartMod="1000" MonolithOffset="933888"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="91" LoKey="88" HiKey="93" LoVel="0" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_G5_pp_01_far.wav"
+          Duplicate="1" Pan="40" SampleStartMod="1000" MonolithOffset="1011712"
+          MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="103" LoKey="100" HiKey="105" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_G6_ff_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" Pan="40" MonolithOffset="1114112"
+          MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="103" LoKey="100" HiKey="105" LoVel="0" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Soft Mallets/Xylo_Soft_G6_pp_01_far.wav"
+          Duplicate="1" SampleStartMod="1000" Pan="40" MonolithOffset="1187840"
+          MonolithLength="90112" SampleRate="44100"/>
+</samplemap>

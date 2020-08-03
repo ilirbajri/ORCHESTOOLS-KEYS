@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="GLOCK 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="84" LoKey="82" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Glockenspiel/glock_soft_C5_02.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="99.9024" Volume="18"
+          SampleStartMod="90000" MonolithOffset="0" MonolithLength="180224"
+          SampleRate="44100" SampleStart="1055" Pan="-45"/>
+  <sample Root="96" LoKey="94" HiKey="99" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Glockenspiel/glock_soft_C6_01.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="74.8128" Volume="18"
+          SampleStartMod="90000" MonolithOffset="180224" MonolithLength="180224"
+          SampleRate="44100"/>
+  <sample Root="108" LoKey="106" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Glockenspiel/glock_soft_C7_03.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="66.0645" Volume="18"
+          SampleStartMod="90000" MonolithOffset="360448" MonolithLength="180224"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="0" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Glockenspiel/glock_soft_G4_01.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="83.3791" Volume="18"
+          SampleStartMod="90000" MonolithOffset="540672" MonolithLength="180224"
+          SampleRate="44100" SampleStart="1055" Pitch="0" Pan="-32"/>
+  <sample Root="91" LoKey="88" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Glockenspiel/glock_soft_G5_01.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="67.5629" Volume="18"
+          SampleStartMod="90000" MonolithOffset="720896" MonolithLength="180224"
+          SampleRate="44100" Pan="-25"/>
+  <sample Root="103" LoKey="100" HiKey="105" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Glockenspiel/glock_soft_G6_01.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="72.1762" Volume="18"
+          SampleStartMod="70000" MonolithOffset="901120" MonolithLength="147456"
+          SampleRate="44100" SampleStart="638"/>
+</samplemap>

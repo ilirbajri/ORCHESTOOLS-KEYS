@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HARPSI 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="33" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#0_rr1.wav"
+          Duplicate="1" SampleStartMod="325000" MonolithOffset="0" MonolithLength="659456"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="45" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#1_rr1.wav"
+          Duplicate="1" SampleStartMod="210000" MonolithOffset="659456"
+          MonolithLength="430080" SampleRate="44100"/>
+  <sample Root="58" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#2_rr1.wav"
+          Duplicate="1" SampleStartMod="185000" MonolithOffset="1089536"
+          MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="70" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#3_rr1.wav"
+          Duplicate="1" SampleStartMod="110000" MonolithOffset="1466368"
+          MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="82" LoKey="81" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_A#4_rr1.wav"
+          Duplicate="1" SampleStartMod="95000" MonolithOffset="1691648"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C1_rr1.wav"
+          Duplicate="1" SampleStartMod="365000" MonolithOffset="1888256"
+          MonolithLength="741376" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C2_rr1.wav"
+          Duplicate="1" SampleStartMod="240000" MonolithOffset="2629632"
+          MonolithLength="491520" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C3_rr1.wav"
+          Duplicate="1" SampleStartMod="155000" MonolithOffset="3121152"
+          MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C4_rr1.wav"
+          Duplicate="1" SampleStartMod="105000" MonolithOffset="3436544"
+          MonolithLength="212992" SampleRate="44100"/>
+  <sample Root="84" LoKey="88" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_C5_rr1.wav"
+          Duplicate="1" SampleStartMod="90000" MonolithOffset="3649536"
+          MonolithLength="221184" SampleRate="44100"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D1_rr1.wav"
+          Duplicate="1" SampleStartMod="295000" MonolithOffset="3870720"
+          MonolithLength="598016" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D2_rr1.wav"
+          Duplicate="1" SampleStartMod="180000" MonolithOffset="4468736"
+          MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D3_rr1.wav"
+          Duplicate="1" SampleStartMod="142000" MonolithOffset="4833280"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_D4_rr1.wav"
+          Duplicate="1" SampleStartMod="110000" MonolithOffset="5115904"
+          MonolithLength="221184" SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E1_rr1.wav"
+          Duplicate="1" SampleStartMod="280000" MonolithOffset="5337088"
+          MonolithLength="565248" SampleRate="44100"/>
+  <sample Root="52" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E2_rr1.wav"
+          Duplicate="1" SampleStartMod="220000" MonolithOffset="5902336"
+          MonolithLength="446464" SampleRate="44100"/>
+  <sample Root="64" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E3_rr1.wav"
+          Duplicate="1" SampleStartMod="110000" MonolithOffset="6348800"
+          MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_E4_rr1.wav"
+          Duplicate="1" SampleStartMod="110000" MonolithOffset="6574080"
+          MonolithLength="229376" SampleRate="44100"/>
+  <sample Root="30" LoKey="0" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#0_rr1.wav"
+          Duplicate="1" SampleStartMod="380000" MonolithOffset="6803456"
+          MonolithLength="770048" SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#1_rr1.wav"
+          Duplicate="1" SampleStartMod="260000" MonolithOffset="7573504"
+          MonolithLength="520192" SampleRate="44100"/>
+  <sample Root="54" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#2_rr1.wav"
+          Duplicate="1" SampleStartMod="185200" MonolithOffset="8093696"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#3_rr1.wav"
+          Duplicate="1" SampleStartMod="125000" MonolithOffset="8474624"
+          MonolithLength="253952" SampleRate="44100"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_F#4_rr1.wav"
+          Duplicate="1" SampleStartMod="115000" MonolithOffset="8728576"
+          MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="32" LoKey="31" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#0_rr1.wav"
+          Duplicate="1" SampleStartMod="330000" MonolithOffset="8970240"
+          MonolithLength="667648" SampleRate="44100"/>
+  <sample Root="44" LoKey="43" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#1_rr1.wav"
+          Duplicate="1" SampleStartMod="250000" MonolithOffset="9637888"
+          MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#2_rr1.wav"
+          Duplicate="1" SampleStartMod="200000" MonolithOffset="10141696"
+          MonolithLength="413696" SampleRate="44100"/>
+  <sample Root="68" LoKey="67" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#3_rr1.wav"
+          Duplicate="1" SampleStartMod="110000" MonolithOffset="10555392"
+          MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, Flemish/Sustains/Low/HarpsiRH_Low_Far_G#4_rr1.wav"
+          Duplicate="1" SampleStartMod="120000" MonolithOffset="10780672"
+          MonolithLength="245760" SampleRate="44100"/>
+</samplemap>

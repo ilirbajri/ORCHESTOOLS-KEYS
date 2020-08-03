@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SS_WOODY" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="89" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_F5_loud_01.wav"
+          Duplicate="0" SampleStartMod="25000" Volume="9" MonolithOffset="0"
+          MonolithLength="94208" SampleRate="44100"/>
+</samplemap>

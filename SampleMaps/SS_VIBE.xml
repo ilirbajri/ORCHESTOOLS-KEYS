@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SS_VIBE" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="77" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_F4_v2_rr1_Main.wav"
+          Duplicate="0" SampleStartMod="100000" SampleStart="275" MonolithOffset="0"
+          MonolithLength="507904" SampleRate="44100"/>
+</samplemap>

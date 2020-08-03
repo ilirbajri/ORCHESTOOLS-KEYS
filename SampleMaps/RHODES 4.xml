@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="RHODES 4" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="70" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p A#3.aif" Duplicate="0"
+          SampleStart="20297" Normalized="0" NormalizedPeak="12.0985" Volume="6"
+          SampleStartMod="240000" MonolithOffset="0" MonolithLength="491520"
+          SampleRate="48000"/>
+  <sample Root="94" LoKey="96" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p A#5.aif" Duplicate="0"
+          SampleStart="17570" Normalized="0" NormalizedPeak="42.128" Volume="14"
+          SampleStartMod="180000" Pan="35" MonolithOffset="491520" MonolithLength="380928"
+          SampleRate="48000"/>
+  <sample Root="45" LoKey="47" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p A1.aif" Duplicate="0"
+          SampleStart="19174" Normalized="0" NormalizedPeak="23.377" Volume="10"
+          SampleStartMod="340000" Pan="-23" MonolithOffset="872448" MonolithLength="696320"
+          SampleRate="48000"/>
+  <sample Root="35" LoKey="35" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p B0.aif" Duplicate="0"
+          SampleStart="18148" Normalized="0" NormalizedPeak="25.53" Volume="10"
+          SampleStartMod="400000" Pan="-35" MonolithOffset="1568768" MonolithLength="851968"
+          SampleRate="48000"/>
+  <sample Root="59" LoKey="59" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p B2.aif" Duplicate="0"
+          SampleStart="19514" Normalized="0" NormalizedPeak="12.3638" Volume="5"
+          SampleStartMod="225000" Pan="-10" MonolithOffset="2420736" MonolithLength="561152"
+          SampleRate="48000"/>
+  <sample Root="49" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p C#2.aif" Duplicate="0"
+          SampleStart="20176" Normalized="0" NormalizedPeak="9.22584" Volume="0"
+          SampleStartMod="325000" Pan="-33" MonolithOffset="2981888" MonolithLength="655360"
+          SampleRate="48000"/>
+  <sample Root="73" LoKey="73" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p C#4.aif" Duplicate="0"
+          SampleStart="18882" Normalized="0" NormalizedPeak="25.9391" Volume="11"
+          SampleStartMod="230000" Pan="5" MonolithOffset="3637248" MonolithLength="471040"
+          SampleRate="48000"/>
+  <sample Root="84" LoKey="84" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p C5.aif" Duplicate="0"
+          SampleStart="20122" Normalized="0" NormalizedPeak="30.6025" Volume="10"
+          SampleStartMod="200000" Pan="30" MonolithOffset="4108288" MonolithLength="421888"
+          SampleRate="48000"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p D#3.aif" Duplicate="0"
+          SampleStart="22822" Normalized="0" NormalizedPeak="6.82321" Volume="1"
+          SampleStartMod="275000" MonolithOffset="4530176" MonolithLength="589824"
+          SampleRate="48000"/>
+  <sample Root="38" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p D1.aif" Duplicate="0"
+          SampleStart="20000" Normalized="0" NormalizedPeak="38.9966" Volume="14"
+          SampleStartMod="390000" Pan="-30" MonolithOffset="5120000" MonolithLength="790528"
+          SampleRate="48000"/>
+  <sample Root="52" LoKey="52" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p E2.aif" Duplicate="0"
+          SampleStart="21188" Normalized="0" NormalizedPeak="10.7186" Volume="4"
+          SampleStartMod="300000" Pan="-15" MonolithOffset="5910528" MonolithLength="618496"
+          SampleRate="48000"/>
+  <sample Root="42" LoKey="42" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p F#1.aif" Duplicate="0"
+          SampleStart="14530" Normalized="0" NormalizedPeak="66.6408" Volume="18"
+          SampleStartMod="350000" Pan="-25" MonolithOffset="6529024" MonolithLength="741376"
+          SampleRate="48000"/>
+  <sample Root="66" LoKey="66" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p F#3.aif" Duplicate="0"
+          SampleStart="22187" Normalized="0" NormalizedPeak="12.7568" Volume="6"
+          SampleStartMod="250000" MonolithOffset="7270400" MonolithLength="512000"
+          SampleRate="48000"/>
+  <sample Root="77" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p F4.aif" Duplicate="0"
+          SampleStart="19649" Normalized="0" NormalizedPeak="14.8874" Volume="8"
+          SampleStartMod="220000" Pan="15" MonolithOffset="7782400" MonolithLength="450560"
+          SampleRate="48000"/>
+  <sample Root="56" LoKey="56" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p G#2.aif" Duplicate="0"
+          SampleStart="18012" Normalized="0" NormalizedPeak="8.46875" Volume="2"
+          SampleStartMod="275000" Pan="-15" MonolithOffset="8232960" MonolithLength="589824"
+          SampleRate="48000"/>
+  <sample Root="80" LoKey="79" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p G#4.aif" Duplicate="0"
+          SampleStart="19149" Normalized="0" NormalizedPeak="11.7955" Volume="4"
+          SampleStartMod="215000" Pan="20" MonolithOffset="8822784" MonolithLength="434176"
+          SampleRate="48000"/>
+  <sample Root="31" LoKey="0" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p G0.aif" Duplicate="0"
+          SampleStart="18382" Normalized="0" NormalizedPeak="21.6915" Volume="7"
+          SampleStartMod="450000" Pan="-40" MonolithOffset="9256960" MonolithLength="921600"
+          SampleRate="48000"/>
+  <sample Root="91" LoKey="90" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 p G5.aif" Duplicate="0"
+          SampleStart="15595" Normalized="0" NormalizedPeak="18.6805" Volume="7"
+          SampleStartMod="175000" MonolithOffset="10178560" MonolithLength="393216"
+          SampleRate="48000"/>
+</samplemap>

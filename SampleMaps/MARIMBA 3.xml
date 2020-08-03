@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="MARIMBA 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="59" LoKey="58" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_B2_med_01.wav"
+          Duplicate="0" MonolithOffset="0" MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="83" LoKey="82" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_B4_med_01.wav"
+          Duplicate="0" MonolithOffset="249856" MonolithLength="73728"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_C2_med_01.wav"
+          Duplicate="0" MonolithOffset="323584" MonolithLength="299008"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_C4_med_01.wav"
+          Duplicate="0" MonolithOffset="622592" MonolithLength="110592"
+          SampleRate="44100"/>
+  <sample Root="96" LoKey="95" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_C6_med_01.wav"
+          Duplicate="0" MonolithOffset="733184" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="0" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_F1_med_01.wav"
+          Duplicate="0" MonolithOffset="811008" MonolithLength="172032"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_F3_med_01.wav"
+          Duplicate="0" MonolithOffset="983040" MonolithLength="233472"
+          SampleRate="44100"/>
+  <sample Root="89" LoKey="88" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_F5_med_01.wav"
+          Duplicate="0" MonolithOffset="1216512" MonolithLength="98304"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_G2_med_01.wav"
+          Duplicate="0" MonolithOffset="1314816" MonolithLength="253952"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="78" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Marimba/Marimba_hit_Outrigger_G4_med_01.wav"
+          Duplicate="0" MonolithOffset="1568768" MonolithLength="98304"
+          SampleRate="44100"/>
+</samplemap>

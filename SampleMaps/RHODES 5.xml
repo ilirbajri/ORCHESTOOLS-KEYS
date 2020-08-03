@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="RHODES 5" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="63" LoKey="0" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 f D#3.aif" Duplicate="0"
+          SampleStart="18887" Volume="-3" SampleStartMod="290000" MonolithOffset="0"
+          MonolithLength="589824" SampleRate="48000"/>
+  <sample Root="77" LoKey="72" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}m-rhodes/mRhodes V3 f F4.aif" Duplicate="0"
+          SampleStart="18456" Volume="3" SampleStartMod="100000" MonolithOffset="589824"
+          MonolithLength="491520" SampleRate="48000"/>
+</samplemap>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PLUCK 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="82" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_A#4_Main_Spic_rr1.wav"
+          Duplicate="0" SampleStartMod="75000" Volume="7" MonolithOffset="0"
+          MonolithLength="167936" SampleRate="44100"/>
+  <sample Root="72" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_C4_Main_Spic_rr1.wav"
+          Duplicate="0" SampleStartMod="100000" MonolithOffset="167936"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_C5_Main_Spic_rr1.wav"
+          Duplicate="0" SampleStartMod="70000" Volume="9" MonolithOffset="401408"
+          MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_D4_Main_Spic_rr1.wav"
+          Duplicate="0" SampleStartMod="95000" Volume="4" MonolithOffset="561152"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="86" LoKey="85" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_D5_Main_Spic_rr1.wav"
+          Duplicate="0" SampleStartMod="70000" Volume="13" MonolithOffset="757760"
+          MonolithLength="200704" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_E4_Main_Spic_rr3.wav"
+          Duplicate="0" SampleStartMod="90000" Volume="5" MonolithOffset="958464"
+          MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_E5_Main_Spic_rr2.wav"
+          Duplicate="0" SampleStartMod="70000" Volume="5" MonolithOffset="1146880"
+          MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_F#4_Main_Spic_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="9" MonolithOffset="1327104"
+          MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="90" LoKey="89" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_F#5_Main_Spic_rr4.wav"
+          Duplicate="0" SampleStartMod="55000" Volume="8" MonolithOffset="1445888"
+          MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Psaltery, Bowed and Plucked/Spiccato/BowedPsaltery_G#4_Main_Spic_rr3.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="11" MonolithOffset="1576960"
+          MonolithLength="118784" SampleRate="44100"/>
+</samplemap>

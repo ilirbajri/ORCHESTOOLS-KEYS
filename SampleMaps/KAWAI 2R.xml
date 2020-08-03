@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="KAWAI 2R" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="56" HiKey="59" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A2_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-42" MonolithOffset="0"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="59" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A2_v3_rr1.wav"
+          Duplicate="1" Volume="8" SampleStartMod="15000" Pan="-42" MonolithOffset="32768"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="59" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A2_v4_rr1.wav"
+          Duplicate="1" Volume="7" SampleStartMod="15000" Pan="-42" MonolithOffset="61440"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A4_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="17" MonolithOffset="110592"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A4_v3_rr1.wav"
+          Duplicate="1" Volume="18" SampleStartMod="15000" Pan="17" MonolithOffset="139264"
+          MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_A4_v4_rr1.wav"
+          Duplicate="1" Volume="15" SampleStartMod="15000" Pan="17" MonolithOffset="163840"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="73" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_B3_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" MonolithOffset="196608"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="73" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_B3_v3_rr1.wav"
+          Duplicate="1" Volume="11" SampleStartMod="15000" MonolithOffset="229376"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="71" LoKey="71" HiKey="73" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_B3_v4_rr1.wav"
+          Duplicate="1" Volume="18" SampleStartMod="15000" MonolithOffset="258048"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="24" LoKey="0" HiKey="26" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C0_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-62" MonolithOffset="303104"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="24" LoKey="0" HiKey="26" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C0_v3_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-62" MonolithOffset="352256"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="24" LoKey="0" HiKey="26" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C0_v4_rr1.wav"
+          Duplicate="1" Volume="7" SampleStartMod="15000" Pan="-62" MonolithOffset="401408"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="39" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C1_v2_rr1.wav"
+          Duplicate="1" Volume="12" SampleStartMod="15000" Pan="-34" MonolithOffset="450560"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="39" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C1_v3_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="15000" Pan="-34" MonolithOffset="483328"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="39" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C1_v4_rr1.wav"
+          Duplicate="1" Volume="10" SampleStartMod="15000" Pan="-34" MonolithOffset="520192"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="50" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C2_v2_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="15000" Pan="-13" MonolithOffset="565248"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="50" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C2_v3_rr1.wav"
+          Duplicate="1" Volume="9" SampleStartMod="15000" Pan="-13" MonolithOffset="606208"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="50" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C2_v4_rr1.wav"
+          Duplicate="1" Volume="8" SampleStartMod="15000" Pan="-13" MonolithOffset="651264"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C3_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-16" MonolithOffset="696320"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C3_v3_rr1.wav"
+          Duplicate="1" Volume="9" SampleStartMod="15000" Pan="-16" MonolithOffset="741376"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C3_v4_rr1.wav"
+          Duplicate="1" Volume="11" SampleStartMod="15000" Pan="-16" MonolithOffset="790528"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="127" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C5_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="14" MonolithOffset="839680"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="127" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C5_v3_rr1.wav"
+          Duplicate="1" Volume="10" SampleStartMod="15000" Pan="14" MonolithOffset="876544"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="127" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_C5_v4_rr1.wav"
+          Duplicate="1" Volume="18" SampleStartMod="15000" Pan="14" MonolithOffset="921600"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="76" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_D4_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" MonolithOffset="966656"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="76" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_D4_v3_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" MonolithOffset="999424"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="76" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_D4_v4_rr1.wav"
+          Duplicate="1" Volume="7" SampleStartMod="15000" MonolithOffset="1028096"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F2_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-20" MonolithOffset="1073152"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="55" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F2_v3_rr1.wav"
+          Duplicate="1" Volume="0" SampleStartMod="15000" Pan="-20" MonolithOffset="1118208"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="55" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F2_v4_rr1.wav"
+          Duplicate="1" Volume="6" SampleStartMod="15000" Pan="-20" MonolithOffset="1167360"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="77" LoKey="77" HiKey="80" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F4_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" MonolithOffset="1216512"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="77" LoKey="77" HiKey="80" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F4_v3_rr1.wav"
+          Duplicate="1" Volume="6" SampleStartMod="15000" MonolithOffset="1245184"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="77" LoKey="77" HiKey="80" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_F4_v4_rr1.wav"
+          Duplicate="1" Volume="17" SampleStartMod="15000" MonolithOffset="1273856"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="31" LoKey="27" HiKey="33" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G0_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-62" MonolithOffset="1306624"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="31" LoKey="27" HiKey="33" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G0_v3_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-62" MonolithOffset="1355776"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="31" LoKey="27" HiKey="33" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G0_v4_rr1.wav"
+          Duplicate="1" Volume="6" SampleStartMod="15000" Pan="-62" MonolithOffset="1404928"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="43" LoKey="40" HiKey="45" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G1_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-54" MonolithOffset="1454080"
+          MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="43" LoKey="40" HiKey="45" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G1_v3_rr1.wav"
+          Duplicate="1" Volume="8" SampleStartMod="15000" Pan="-54" MonolithOffset="1474560"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="43" LoKey="40" HiKey="45" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G1_v4_rr1.wav"
+          Duplicate="1" Volume="9" SampleStartMod="15000" Pan="-54" MonolithOffset="1515520"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="70" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G3_v2_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-34" MonolithOffset="1556480"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="70" LoVel="60" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G3_v3_rr1.wav"
+          Duplicate="1" Volume="3" SampleStartMod="15000" Pan="-34" MonolithOffset="1589248"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="70" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Releases/GrandPno_Main_Rel_G3_v4_rr1.wav"
+          Duplicate="1" Volume="10" SampleStartMod="15000" Pan="-34" MonolithOffset="1622016"
+          MonolithLength="45056" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SS_PIONE" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="70" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/NoSus/JHPiano_NoSus_Close_A#4_vl4_rr1.wav"
+          Duplicate="1" SampleStartMod="400000" MonolithOffset="0" MonolithLength="794624"
+          SampleRate="44100" Volume="-5" Pan="22"/>
+</samplemap>

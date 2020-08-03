@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SS_VIBEBOW" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="88" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Bowed/Vibes_bowed_E5_rr1_Main.wav"
+          Duplicate="0" Normalized="0" NormalizedPeak="19.7636" Volume="10"
+          SampleStartMod="200000" Pan="41" SampleStart="23586" MonolithOffset="0"
+          MonolithLength="438272" SampleRate="44100"/>
+</samplemap>

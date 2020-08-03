@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIBES 1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="0" HiKey="62" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_A2_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" Pan="20" MonolithOffset="0"
+          MonolithLength="454656" SampleRate="44100"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_A4_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" MonolithOffset="454656"
+          MonolithLength="368640" SampleRate="44100"/>
+  <sample Root="81" LoKey="80" HiKey="86" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_A4_v2_rr1_Main.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="823296"
+          MonolithLength="598016" SampleRate="44100"/>
+  <sample Root="71" LoKey="70" HiKey="72" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_B3_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" MonolithOffset="1421312"
+          MonolithLength="462848" SampleRate="44100"/>
+  <sample Root="71" LoKey="70" HiKey="72" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_B3_v2_rr1_Main.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="1884160"
+          MonolithLength="716800" SampleRate="44100"/>
+  <sample Root="60" LoKey="0" HiKey="62" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_C3_v2_rr1_Main.wav"
+          Duplicate="1" Volume="5" SampleStartMod="100000" Pan="13" MonolithOffset="2600960"
+          MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="86" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_C5_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" MonolithOffset="3133440"
+          MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_D4_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" MonolithOffset="3297280"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_D4_v2_rr1_Main.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="3792896"
+          MonolithLength="659456" SampleRate="44100"/>
+  <sample Root="64" LoKey="63" HiKey="65" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_E3_v2_rr1_Main.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="4452352"
+          MonolithLength="667648" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="127" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_E5_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" MonolithOffset="5120000"
+          MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="127" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_E5_v2_rr1_Main.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="5378048"
+          MonolithLength="376832" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_F4_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" MonolithOffset="5754880"
+          MonolithLength="344064" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="79" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_F4_v2_rr1_Main.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="6098944"
+          MonolithLength="507904" SampleRate="44100"/>
+  <sample Root="67" LoKey="63" HiKey="69" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_G3_v1_rr1_Main.wav"
+          Duplicate="1" Volume="6" SampleStartMod="80000" MonolithOffset="6606848"
+          MonolithLength="630784" SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="69" LoVel="45" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Soft Mallets/Vibes_soft_G3_v2_rr1_Main.wav"
+          Duplicate="1" Volume="2" SampleStartMod="100000" MonolithOffset="7237632"
+          MonolithLength="806912" SampleRate="44100"/>
+</samplemap>

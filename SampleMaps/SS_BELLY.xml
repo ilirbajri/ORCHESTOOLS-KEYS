@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SS_BELLY" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="96" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Glockenspiel/glock_loud_C6_01.wav"
+          Duplicate="0" Normalized="0" NormalizedPeak="14.8204" Volume="9"
+          SampleStartMod="200000" MonolithOffset="0" MonolithLength="331776"
+          SampleRate="44100"/>
+</samplemap>

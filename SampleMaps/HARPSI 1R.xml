@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HARPSI 1R" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#0_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="2" MonolithOffset="0"
+          MonolithLength="307200" SampleRate="44100" Pan="-17"/>
+  <sample Root="46" LoKey="45" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#1_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="307200"
+          MonolithLength="196608" SampleRate="44100" Pan="-26"/>
+  <sample Root="58" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#2_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="503808"
+          MonolithLength="188416" SampleRate="44100" Volume="1"/>
+  <sample Root="70" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#3_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="692224"
+          MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="82" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_A#4_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="823296"
+          MonolithLength="98304" SampleRate="44100" Volume="1"/>
+  <sample Root="36" LoKey="33" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C1_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="921600"
+          MonolithLength="471040" SampleRate="44100" Pan="-35"/>
+  <sample Root="60" LoKey="59" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C3_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="-1" MonolithOffset="1392640"
+          MonolithLength="212992" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C4_rr1.wav"
+          Duplicate="0" SampleStartMod="40000" MonolithOffset="1605632"
+          MonolithLength="143360" SampleRate="44100" Volume="1"/>
+  <sample Root="84" LoKey="83" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_C5_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="4" MonolithOffset="1748992"
+          MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="38" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D1_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="1843200"
+          MonolithLength="290816" SampleRate="44100" Volume="2" Pan="-25"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D2_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="3" MonolithOffset="2134016"
+          MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D4_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="2297856"
+          MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="86" LoKey="85" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_D5_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="6" MonolithOffset="2396160"
+          MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E1_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="2482176"
+          MonolithLength="229376" SampleRate="44100" Volume="-2" Pan="-17"/>
+  <sample Root="52" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E2_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="2" MonolithOffset="2711552"
+          MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="64" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E3_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="2895872"
+          MonolithLength="184320" SampleRate="44100" Volume="2"/>
+  <sample Root="76" LoKey="75" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E4_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="3080192"
+          MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="88" LoKey="96" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_E5_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="4" MonolithOffset="3182592"
+          MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="42" LoKey="40" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_F#1_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="2" MonolithOffset="3268608"
+          MonolithLength="212992" SampleRate="44100"/>
+  <sample Root="54" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_F#2_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="3481600"
+          MonolithLength="172032" SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_F#3_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="1" MonolithOffset="3653632"
+          MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_F#4_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="3784704"
+          MonolithLength="81920" SampleRate="44100" Volume="1"/>
+  <sample Root="44" LoKey="43" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#1_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="2" MonolithOffset="3866624"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#2_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="8" MonolithOffset="4063232"
+          MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="68" LoKey="67" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#3_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" Volume="2" MonolithOffset="4227072"
+          MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Lute/ZuckermannKitHarpsi_Lute_Sus_G#4_rr1.wav"
+          Duplicate="0" SampleStartMod="60000" MonolithOffset="4337664"
+          MonolithLength="73728" SampleRate="44100" Volume="1"/>
+</samplemap>

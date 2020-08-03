@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SS_HIPIANO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="96" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai - Legacy/Sustains/GrandPno_Main_Sus_C6_v3_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="80000" MonolithOffset="0"
+          MonolithLength="167936" SampleRate="44100" Normalized="0" NormalizedPeak="1.25896"
+          SampleStart="253"/>
+</samplemap>

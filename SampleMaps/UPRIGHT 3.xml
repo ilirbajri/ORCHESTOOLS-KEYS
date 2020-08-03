@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="UPRIGHT 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C1_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="300000" MonolithOffset="0"
+          MonolithLength="696320" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C1_vl2_rr1.wav"
+          Duplicate="1" Volume="10" SampleStartMod="350000" MonolithOffset="696320"
+          MonolithLength="724992" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C1_vl3_rr1.wav"
+          Duplicate="1" Volume="-3" SampleStartMod="450000" MonolithOffset="1421312"
+          MonolithLength="966656" SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="53" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C2_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="200000" MonolithOffset="2387968"
+          MonolithLength="380928" SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="53" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C2_vl2_rr1.wav"
+          Duplicate="1" Volume="5" SampleStartMod="300000" MonolithOffset="2768896"
+          MonolithLength="618496" SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="53" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C2_vl3_rr1.wav"
+          Duplicate="1" Volume="-3" SampleStartMod="500000" MonolithOffset="3387392"
+          MonolithLength="1019904" SampleRate="44100"/>
+  <sample Root="72" LoKey="67" HiKey="75" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C4_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="220000" MonolithOffset="4407296"
+          MonolithLength="425984" SampleRate="44100"/>
+  <sample Root="72" LoKey="67" HiKey="75" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C4_vl2_rr1.wav"
+          Duplicate="1" Volume="2" SampleStartMod="250000" MonolithOffset="4833280"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="72" LoKey="67" HiKey="75" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C4_vl3_rr1.wav"
+          Duplicate="1" Volume="-5" SampleStartMod="250000" MonolithOffset="5328896"
+          MonolithLength="598016" SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="93" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C5_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="60000" MonolithOffset="5926912"
+          MonolithLength="122880" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="90" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C5_vl2_rr1.wav"
+          Duplicate="1" Volume="6" SampleStartMod="100000" MonolithOffset="6049792"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="90" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C5_vl3_rr1.wav"
+          Duplicate="1" Volume="-1" SampleStartMod="110000" MonolithOffset="6246400"
+          MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="127" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C6_vl2_rr1.wav"
+          Duplicate="1" Volume="2" SampleStartMod="40000" MonolithOffset="6471680"
+          MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="127" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_C6_vl3_rr1.wav"
+          Duplicate="1" Volume="-5" SampleStartMod="50000" MonolithOffset="6557696"
+          MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="31" LoKey="0" HiKey="33" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G0_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="250000" MonolithOffset="6664192"
+          MonolithLength="512000" SampleRate="44100"/>
+  <sample Root="31" LoKey="0" HiKey="33" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G0_vl2_rr1.wav"
+          Duplicate="1" Volume="2" SampleStartMod="400000" MonolithOffset="7176192"
+          MonolithLength="823296" SampleRate="44100"/>
+  <sample Root="31" LoKey="0" HiKey="33" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G0_vl3_rr1.wav"
+          Duplicate="1" Volume="-2" SampleStartMod="500000" MonolithOffset="7999488"
+          MonolithLength="1089536" SampleRate="44100"/>
+  <sample Root="43" LoKey="37" HiKey="45" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G1_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="350000" MonolithOffset="9089024"
+          MonolithLength="729088" SampleRate="44100"/>
+  <sample Root="43" LoKey="37" HiKey="45" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G1_vl2_rr1.wav"
+          Duplicate="1" Volume="9" SampleStartMod="350000" MonolithOffset="9818112"
+          MonolithLength="782336" SampleRate="44100"/>
+  <sample Root="43" LoKey="37" HiKey="45" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G1_vl3_rr1.wav"
+          Duplicate="1" Volume="-5" SampleStartMod="500000" MonolithOffset="10600448"
+          MonolithLength="1069056" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="60" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G2_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="240000" MonolithOffset="11669504"
+          MonolithLength="495616" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="60" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G2_vl2_rr1.wav"
+          Duplicate="1" Volume="2" SampleStartMod="400000" MonolithOffset="12165120"
+          MonolithLength="815104" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="60" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G2_vl3_rr1.wav"
+          Duplicate="1" Volume="-7" SampleStartMod="450000" MonolithOffset="12980224"
+          MonolithLength="983040" SampleRate="44100"/>
+  <sample Root="67" LoKey="61" HiKey="66" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G3_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="260000" MonolithOffset="13963264"
+          MonolithLength="557056" SampleRate="44100"/>
+  <sample Root="67" LoKey="61" HiKey="66" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G3_vl2_rr1.wav"
+          Duplicate="1" Volume="2" SampleStartMod="250000" Pan="-5" MonolithOffset="14520320"
+          MonolithLength="503808" SampleRate="44100"/>
+  <sample Root="67" LoKey="61" HiKey="66" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G3_vl3_rr1.wav"
+          Duplicate="1" Volume="-5" SampleStartMod="250000" Pan="-5" MonolithOffset="15024128"
+          MonolithLength="589824" SampleRate="44100"/>
+  <sample Root="79" LoKey="76" HiKey="81" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G4_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="90000" MonolithOffset="15613952"
+          MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="79" LoKey="76" HiKey="83" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G4_vl2_rr1.wav"
+          Duplicate="1" Volume="2" SampleStartMod="150000" MonolithOffset="15802368"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="79" LoKey="76" HiKey="83" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G4_vl3_rr1.wav"
+          Duplicate="1" Volume="-5" SampleStartMod="180000" MonolithOffset="16084992"
+          MonolithLength="274432" SampleRate="44100"/>
+  <sample Root="103" LoKey="94" HiKey="127" LoVel="0" HiVel="44" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G5_vl1_rr1.wav"
+          Duplicate="1" Volume="13" SampleStartMod="25000" MonolithOffset="16359424"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="91" LoKey="91" HiKey="93" LoVel="45" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G5_vl2_rr1.wav"
+          Duplicate="1" Volume="2" SampleStartMod="80000" MonolithOffset="16416768"
+          MonolithLength="172032" SampleRate="44100"/>
+  <sample Root="91" LoKey="91" HiKey="93" LoVel="96" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Upright Piano, Yamaha/Sustains/Upright1_Sus_G5_vl3_rr1.wav"
+          Duplicate="1" Volume="-5" SampleStartMod="75000" MonolithOffset="16588800"
+          MonolithLength="151552" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptButton" id="E1 ON" value="0"/>
+    <Control type="ScriptButton" id="E2 ON" value="0"/>
+    <Control type="ScriptButton" id="E3 ON" value="0"/>
+    <Control type="ScriptButton" id="E4 ON" value="0"/>
+    <Control type="ScriptButton" id="E3 RELTRIG" value="0"/>
+    <Control type="ScriptSlider" id="E3 RELEASE TRIGGER TIME" value="0"/>
+    <Control type="ScriptButton" id="E4 RELTRIG" value="0"/>
+    <Control type="ScriptSlider" id="E4 RELEASE TRIGGER TIME" value="0"/>
+    <Control type="ScriptSlider" id="E1_VOLUME" value="-16.4"/>
+    <Control type="ScriptSlider" id="E2_VOLUME" value="-5.27"/>
+    <Control type="ScriptSlider" id="E4_VOLUME" value="-100"/>
+    <Control type="ScriptButton" id="COMPRESSOR ON" value="1"/>
+    <Control type="ScriptButton" id="COMPRESSOR MAKEUP" value="1"/>
+    <Control type="ScriptSlider" id="COMP_THRESHOLD" value="-19.1"/>
+    <Control type="ScriptSlider" id="COMP_RATIO" value="6.22"/>
+    <Control type="ScriptSlider" id="CONVOLUTION_WET" value="-71.2"/>
+    <Control type="ScriptSlider" id="CONVOLUTION_DRY" value="-10"/>
+    <Control type="ScriptSlider" id="CONVOLUTION_DAMPING" value="0"/>
+    <Control type="ScriptSlider" id="IMAGE" value="145.38"/>
+    <Control type="ScriptSlider" id="CONVOLUTION_PREDELAY" value="137"/>
+    <Control type="ScriptSlider" id="CONVOLUTION_HICUT" value="20000"/>
+    <Control type="ScriptButton" id="CONVOLUTION ON" value="1"/>
+    <Control type="ScriptComboBox" id="CONVOBOX" value="3"/>
+    <Control type="ScriptSlider" id="E1_SAMPLESTART" value="1"/>
+    <Control type="ScriptButton" id="E1_SAMPLESTART_ON" value="1"/>
+    <Control type="ScriptSlider" id="E1_SSTART_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="E1_SSTART_VELOCITY_ON" value="0"/>
+    <Control type="ScriptSlider" id="E1_SSTART_RANDOM" value="1"/>
+    <Control type="ScriptButton" id="E1_SSTART_RANDOM_ON" value="1"/>
+    <Control type="ScriptButton" id="E1_VELOCITY_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E1_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="E1_VELOCITY_ON" value="0"/>
+    <Control type="ScriptButton" id="E1_ENV_VELATTACK_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E1_VELATTACK" value="0"/>
+    <Control type="ScriptButton" id="E1_VELATTACK_ON" value="0"/>
+    <Control type="ScriptSlider" id="E1_ENV_ATTACK" value="6953"/>
+    <Control type="ScriptSlider" id="E1_ENV_HOLD" value="20000"/>
+    <Control type="ScriptSlider" id="E1_ENV_DECAY" value="20000"/>
+    <Control type="ScriptSlider" id="E1_ENV_RELEASE" value="6953"/>
+    <Control type="ScriptButton" id="E1_FILTER_ON" value="1"/>
+    <Control type="ScriptComboBox" id="E1FILTERLIST" value="16"/>
+    <Control type="ScriptButton" id="E1_FILTER_VEL_FREQ_ON" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_VEL_FREQUENCY" value="0"/>
+    <Control type="ScriptButton" id="E1_FILTER_VEL_FREQ_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E1_FILTER_VEL_GAIN_ON" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_VEL_GAIN" value="0"/>
+    <Control type="ScriptButton" id="E1_FILTER_VEL_GAIN_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E1_FILTER_VEL_BPOLAR_ON" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_VEL_BPOLAR" value="0"/>
+    <Control type="ScriptButton" id="E1_FILTER_VEL_BIPOLAR_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_FREQUENCY" value="5928"/>
+    <Control type="ScriptSlider" id="E1_FILTER_RESONANCE" value="1.03"/>
+    <Control type="ScriptSlider" id="E1_FILTER_BPOLAR" value="0.11"/>
+    <Control type="ScriptSlider" id="E1_FILTER_GAIN" value="-18"/>
+    <Control type="ScriptButton" id="E1_FILTER_ENVELOPE_ON" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_ENVELOPE" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_ENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="E1_FILTER_ENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="E2_SAMPLESTART" value="0"/>
+    <Control type="ScriptButton" id="E2_SAMPLESTART_ON" value="0"/>
+    <Control type="ScriptSlider" id="E2_SSTART_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="E2_SSTART_VELOCITY_ON" value="0"/>
+    <Control type="ScriptSlider" id="E2_SSTART_RANDOM" value="0"/>
+    <Control type="ScriptButton" id="E2_SSTART_RANDOM_ON" value="0"/>
+    <Control type="ScriptButton" id="E2_VELOCITY_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E2_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="E2_VELOCITY_ON" value="0"/>
+    <Control type="ScriptButton" id="E2_ENV_VELATTACK_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E2_VELATTACK" value="0"/>
+    <Control type="ScriptButton" id="E2_VELATTACK_ON" value="0"/>
+    <Control type="ScriptSlider" id="E2_ENV_ATTACK" value="4575"/>
+    <Control type="ScriptSlider" id="E2_ENV_HOLD" value="156"/>
+    <Control type="ScriptSlider" id="E2_ENV_DECAY" value="20000"/>
+    <Control type="ScriptSlider" id="E2ENV_RELEASE" value="3651"/>
+    <Control type="ScriptButton" id="E2_FILTER_ON" value="1"/>
+    <Control type="ScriptComboBox" id="E2FILTERLIST" value="9"/>
+    <Control type="ScriptButton" id="E2_FILTER_VEL_FREQ_ON" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_VEL_FREQUENCY" value="0"/>
+    <Control type="ScriptButton" id="E2_FILTER_VEL_FREQ_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E2_FILTER_VEL_GAIN_ON" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_VEL_GAIN" value="0"/>
+    <Control type="ScriptButton" id="E2_FILTER_VEL_GAIN_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E2_FILTER_VEL_BPOLAR_ON" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_VEL_BPOLAR" value="0"/>
+    <Control type="ScriptButton" id="E2_FILTER_VEL_BIPOLAR_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_FREQUENCY" value="2576"/>
+    <Control type="ScriptSlider" id="E2_FILTER_RESONANCE" value="4.51"/>
+    <Control type="ScriptSlider" id="E2_FILTER_BPOLAR" value="0.18"/>
+    <Control type="ScriptSlider" id="E2_FILTER_GAIN" value="18"/>
+    <Control type="ScriptButton" id="E2_FILTER_ENVELOPE_ON" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_ENVELOPE" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_ENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="E2_FILTER_ENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="E3_SAMPLESTART" value="0"/>
+    <Control type="ScriptButton" id="E3_SAMPLESTART_ON" value="0"/>
+    <Control type="ScriptSlider" id="E3_SSTART_VELOCITY" value="0.01"/>
+    <Control type="ScriptButton" id="E3_SSTART_VELOCITY_ON" value="0"/>
+    <Control type="ScriptSlider" id="E3_SSTART_RANDOM" value="0"/>
+    <Control type="ScriptButton" id="E3_SSTART_RANDOM_ON" value="0"/>
+    <Control type="ScriptButton" id="E3_VELOCITY_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E3_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="E3_VELOCITY_ON" value="0"/>
+    <Control type="ScriptButton" id="E3_ENV_VELATTACK_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E3_VELATTACK" value="0.03"/>
+    <Control type="ScriptButton" id="E3_VELATTACK_ON" value="0"/>
+    <Control type="ScriptSlider" id="E3_ENV_ATTACK" value="6503"/>
+    <Control type="ScriptSlider" id="E3_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="E3_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="E3_ENV_RELEASE" value="7428"/>
+    <Control type="ScriptButton" id="E3_FILTER_ON" value="1"/>
+    <Control type="ScriptComboBox" id="E3FILTERLIST" value="11"/>
+    <Control type="ScriptButton" id="E3_FILTER_VEL_FREQ_ON" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_VEL_FREQUENCY" value="0"/>
+    <Control type="ScriptButton" id="E3_FILTER_VEL_FREQ_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E3_FILTER_VEL_GAIN_ON" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_VEL_GAIN" value="0"/>
+    <Control type="ScriptButton" id="E3_FILTER_VEL_GAIN_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E3_FILTER_VEL_BPOLAR_ON" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_VEL_BPOLAR" value="0"/>
+    <Control type="ScriptButton" id="E3_FILTER_VEL_BIPOLAR_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_FREQUENCY" value="17421"/>
+    <Control type="ScriptSlider" id="E3_FILTER_RESONANCE" value="1.82"/>
+    <Control type="ScriptSlider" id="E3_FILTER_BPOLAR" value="-0.71"/>
+    <Control type="ScriptSlider" id="E3_FILTER_GAIN" value="12.36"/>
+    <Control type="ScriptButton" id="E3_FILTER_ENVELOPE_ON" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_ENVELOPE" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_ENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="E3_FILTER_ENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="E4_SAMPLESTART" value="0"/>
+    <Control type="ScriptButton" id="E4_SAMPLESTART_ON" value="0"/>
+    <Control type="ScriptSlider" id="E4_SSTART_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="E4_SSTART_VELOCITY_ON" value="0"/>
+    <Control type="ScriptSlider" id="E4_SSTART_RANDOM" value="0"/>
+    <Control type="ScriptButton" id="E4_SSTART_RANDOM_ON" value="0"/>
+    <Control type="ScriptButton" id="E4_VELOCITY_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E4_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="E4_VELOCITY_ON" value="0"/>
+    <Control type="ScriptButton" id="E4_ENV_VELATTACK_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E4_VELATTACK" value="0"/>
+    <Control type="ScriptButton" id="E4_VELATTACK_ON" value="0"/>
+    <Control type="ScriptSlider" id="E4_ENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="E4_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="E4_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="E4_ENV_RELEASE" value="0"/>
+    <Control type="ScriptButton" id="E4_FILTER_ON" value="0"/>
+    <Control type="ScriptComboBox" id="E4FILTERLIST" value="11"/>
+    <Control type="ScriptButton" id="E4_FILTER_VEL_FREQ_ON" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_VEL_FREQUENCY" value="0"/>
+    <Control type="ScriptButton" id="E4_FILTER_VEL_FREQ_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E4_FILTER_VEL_GAIN_ON" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_VEL_GAIN" value="0"/>
+    <Control type="ScriptButton" id="E4_FILTER_VEL_GAIN_INVERT" value="0"/>
+    <Control type="ScriptButton" id="E4_FILTER_VEL_BPOLAR_ON" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_VEL_BPOLAR" value="0"/>
+    <Control type="ScriptButton" id="E4_FILTER_VEL_BIPOLAR_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_FREQUENCY" value="20"/>
+    <Control type="ScriptSlider" id="E4_FILTER_RESONANCE" value="0.3"/>
+    <Control type="ScriptSlider" id="E4_FILTER_BPOLAR" value="-1"/>
+    <Control type="ScriptSlider" id="E4_FILTER_GAIN" value="-18"/>
+    <Control type="ScriptButton" id="E4_FILTER_ENVELOPE_ON" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_ENVELOPE" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_ENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="E4_FILTER_ENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="TRANSPOSER" value="0"/>
+    <Control type="ScriptComboBox" id="Element1" value="51"/>
+    <Control type="ScriptSlider" id="E1_TRANSPOSE" value="-12"/>
+    <Control type="ScriptSlider" id="E1_PITCH" value="0.01"/>
+    <Control type="ScriptSlider" id="E1_PAN" value="-56"/>
+    <Control type="ScriptComboBox" id="Element2" value="65"/>
+    <Control type="ScriptSlider" id="E2_TRANSPOSE" value="-12"/>
+    <Control type="ScriptSlider" id="E2_PITCH" value="-1"/>
+    <Control type="ScriptSlider" id="E2_PAN" value="-60"/>
+    <Control type="ScriptComboBox" id="Element3" value="32"/>
+    <Control type="ScriptSlider" id="E3_TRANSPOSE" value="0"/>
+    <Control type="ScriptSlider" id="E3_PITCH" value="0"/>
+    <Control type="ScriptSlider" id="E3_PAN" value="0"/>
+    <Control type="ScriptComboBox" id="Element4" value="69"/>
+    <Control type="ScriptSlider" id="E4_TRANSPOSE" value="0"/>
+    <Control type="ScriptSlider" id="E4_PITCH" value="0"/>
+    <Control type="ScriptSlider" id="E4_PAN" value="0"/>
+    <Control type="ScriptSlider" id="MASTERVOLUME" value="-24.9"/>
+    <Control type="ScriptButton" id="EQ_ON" value="1"/>
+    <Control type="ScriptButton" id="LFO1_ON" value="1"/>
+    <Control type="ScriptSlider" id="LFO1_INTENSITY" value="1"/>
+    <Control type="ScriptButton" id="LFO1_Sync" value="0"/>
+    <Control type="ScriptButton" id="LFO1_LEGATO" value="1"/>
+    <Control type="ScriptSlider" id="LFO1_WAVEFORM" value="1"/>
+    <Control type="ScriptSlider" id="LFO1_TIME" value="0.02"/>
+    <Control type="ScriptSlider" id="LFO1_FADEIN" value="2267"/>
+    <Control type="ScriptSlider" id="LFO1_SMOOTH" value="500"/>
+    <Control type="ScriptSlider" id="LFO1_to_E1GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E1GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E2GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E2GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E3GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E3GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E4GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E4GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E1FILTER" value="1"/>
+    <Control type="ScriptButton" id="LFO1_to_E1FILTER_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E2FILTER" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E2FILTER_INVERT1" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E3FILTER" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E3FILTER_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E4FILTER" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E4FILTER_INVERT" value="0"/>
+    <Control type="ScriptButton" id="LFO2_ON" value="1"/>
+    <Control type="ScriptSlider" id="LFO2_INTENSITY" value="1"/>
+    <Control type="ScriptButton" id="LFO2_Sync" value="0"/>
+    <Control type="ScriptButton" id="LFO2_LEGATO" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_WAVEFORM" value="4"/>
+    <Control type="ScriptSlider" id="LFO2_TIME" value="3.6"/>
+    <Control type="ScriptSlider" id="LFO2_FADEIN" value="3000"/>
+    <Control type="ScriptSlider" id="LFO2_SMOOTH" value="221"/>
+    <Control type="ScriptSlider" id="LFO2_to_E1GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E1GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E2GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E2GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E3GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E3GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E4GAIN" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E4GAIN_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E1FILTER" value="0.33"/>
+    <Control type="ScriptButton" id="LFO2_to_E1FILTER_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E2FILTER" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E2FILTER_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E3FILTER" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E3FILTER_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E4FILTER" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E4FILTER_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="CHORUS RATE" value="0"/>
+    <Control type="ScriptSlider" id="CHORUS WIDTH" value="0"/>
+    <Control type="ScriptSlider" id="CHROUS FEEDBACK" value="0"/>
+    <Control type="ScriptSlider" id="CHORUS DELAY" value="0"/>
+    <Control type="ScriptSlider" id="PHASER FREQUENCY1" value="5629"/>
+    <Control type="ScriptSlider" id="PHASER FREQUENCY2" value="130"/>
+    <Control type="ScriptSlider" id="PHASER FEEDBACK" value="0.93"/>
+    <Control type="ScriptSlider" id="PHASER MIX" value="0.24"/>
+    <Control type="ScriptSlider" id="LFO1_to_PHASER" value="0.52"/>
+    <Control type="ScriptButton" id="LFO1_SYNC19" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_PHASER" value="0.52"/>
+    <Control type="ScriptButton" id="LFO1_SYNC20" value="0"/>
+    <Control type="ScriptSlider" id="SATURATOR_PREGAIN" value="12.4"/>
+    <Control type="ScriptSlider" id="SATURATOR_SATURATION" value="0.93"/>
+    <Control type="ScriptSlider" id="SATURATOR_WET" value="0.29"/>
+    <Control type="ScriptSlider" id="SATURATOR_POSTGAIN" value="-11.2"/>
+    <Control type="ScriptSlider" id="LFO1_to_SATURATION" value="0.43"/>
+    <Control type="ScriptButton" id="LFO1_to_SATURATION_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_SATURATION" value="0.46"/>
+    <Control type="ScriptButton" id="LFO2_to_SATURATION_INVERT" value="0"/>
+    <Control type="ScriptButton" id="CHORUS_ON" value="0"/>
+    <Control type="ScriptButton" id="PHASER_ON" value="1"/>
+    <Control type="ScriptButton" id="SATURATION_ON" value="1"/>
+    <Control type="ScriptSlider" id="LFO1_to_E1PAN" value="0.54"/>
+    <Control type="ScriptButton" id="LFO1_to_E1PAN_ON" value="1"/>
+    <Control type="ScriptSlider" id="LFO1_to_E2PAN" value="-0.64"/>
+    <Control type="ScriptButton" id="LFO1_to_E2PAN_ON" value="1"/>
+    <Control type="ScriptSlider" id="LFO1_to_E3PAN" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E3PAN_ON" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E4PAN" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E4PAN_ON" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E1FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E1FILTER_Q_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E2FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E2FILTER_Q_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E3FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E3FILTER_Q_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO1_to_E4FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO1_to_E4FILTER_Q_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E1PAN" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E1PAN_ON" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E2PAN" value="0.62"/>
+    <Control type="ScriptButton" id="LFO2_to_E2PAN_ON" value="1"/>
+    <Control type="ScriptSlider" id="LFO2_to_E3PAN" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E3PAN_ON" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E4PAN" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E4PAN_ON" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E1FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E1FILTER_Q_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E2FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E2FILTER_Q_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E3FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E3FILTER_Q_INVERT" value="0"/>
+    <Control type="ScriptSlider" id="LFO2_to_E4FILTER_Q" value="0"/>
+    <Control type="ScriptButton" id="LFO2_to_E4FILTER_Q_INVERT" value="0"/>
+  </Content>
+  <Modules>
+    <Processor Type="CurveEq" ID="EQ" Bypassed="0" NumFilters="8" Band0="15.8824"
+               Band1="4161.13" Band2="6.27485" Band3="1" Band4="4" Band5="-4.23529"
+               Band6="225.087" Band7="1" Band8="1" Band9="4" Band10="6.35294"
+               Band11="56.7687" Band12="1" Band13="1" Band14="2" Band15="-20.1176"
+               Band16="100.102" Band17="8" Band18="1" Band19="4" Band20="-18.3529"
+               Band21="358.671" Band22="8" Band23="1" Band24="4" Band25="18"
+               Band26="2774.97" Band27="8" Band28="1" Band29="4" Band30="-24"
+               Band31="147.095" Band32="8" Band33="1" Band34="4" Band35="-24"
+               Band36="76.9261" Band37="8" Band38="1" Band39="4" FFTEnabled="0">
+      <ChildProcessors/>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+    </Processor>
+  </Modules>
+  <MidiAutomation>
+    <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="-1"
+                End="1" FullStart="-1" FullEnd="1" Skew="1" Interval="0.01" Attribute="E2_PITCH"
+                Inverted="0"/>
+    <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="0"
+                End="1" FullStart="-1" FullEnd="1" Skew="1" Interval="0.01" Attribute="E3_PITCH"
+                Inverted="0"/>
+  </MidiAutomation>
+  <MPEData Enabled="0"/>
+</Preset>

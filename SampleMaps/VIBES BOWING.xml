@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIBES BOWING" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="0" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Bowed/Vibes_bowed_A2_rr1_Main.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="153.84" Volume="10"
+          SampleStartMod="200000" MonolithOffset="0" MonolithLength="532480"
+          SampleRate="44100"/>
+  <sample Root="81" LoKey="75" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Bowed/Vibes_bowed_A4_rr1_Main.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="28.8959" Volume="10"
+          SampleStartMod="200000" MonolithOffset="532480" MonolithLength="679936"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="68" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Bowed/Vibes_bowed_D4_rr1_Main.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="24.8808" Volume="10"
+          SampleStartMod="200000" MonolithOffset="1212416" MonolithLength="720896"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="58" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Bowed/Vibes_bowed_E3_rr1_Main.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="51.0405" Volume="10"
+          SampleStartMod="200000" MonolithOffset="1933312" MonolithLength="753664"
+          SampleRate="44100"/>
+  <sample Root="88" LoKey="82" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Bowed/Vibes_bowed_E5_rr1_Main.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="19.7636" Volume="10"
+          SampleStartMod="200000" Pan="41" MonolithOffset="2686976" MonolithLength="438272"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Vibraphone/Bowed/Vibes_bowed_G3_rr1_Main.wav"
+          Duplicate="1" Normalized="0" NormalizedPeak="52.937" Volume="10"
+          SampleStartMod="200000" MonolithOffset="3125248" MonolithLength="729088"
+          SampleRate="44100"/>
+</samplemap>

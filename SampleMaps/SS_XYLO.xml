@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SS_XYLO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="108" LoKey="0" HiKey="127" LoVel="80" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_C7_ff_01_far.wav"
+          Duplicate="0" SampleStartMod="39000" SampleStart="66" MonolithOffset="0"
+          MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="108" LoKey="0" HiKey="127" LoVel="0" HiVel="79" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Xylophone/Hard Mallets/Xylo_Hard_C7_pp_01_far.wav"
+          Duplicate="0" SampleStartMod="19000" SampleStart="69" MonolithOffset="81920"
+          MonolithLength="40960" SampleRate="44100"/>
+</samplemap>

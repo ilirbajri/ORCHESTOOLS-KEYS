@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TX81PIANO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="24" LoKey="0" HiKey="25" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C0_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="0" MonolithLength="208896"
+          SampleRate="44100"/>
+  <sample Root="24" LoKey="0" HiKey="25" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C0_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="208896" MonolithLength="192512"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="37" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C1_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="401408" MonolithLength="192512"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="37" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C1_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="593920" MonolithLength="245760"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="49" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C2_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="839680" MonolithLength="184320"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="46" HiKey="49" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C2_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="1024000" MonolithLength="225280"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C3_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="1249280" MonolithLength="225280"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C3_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="1474560" MonolithLength="249856"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="73" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C4_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="1724416" MonolithLength="200704"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="73" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C4_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="1925120" MonolithLength="217088"
+          SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="85" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C5_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="2142208" MonolithLength="200704"
+          SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="85" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C5_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="2342912" MonolithLength="217088"
+          SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="97" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C6_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="2560000" MonolithLength="159744"
+          SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="97" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C6_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="2719744" MonolithLength="155648"
+          SampleRate="44100"/>
+  <sample Root="108" LoKey="106" HiKey="127" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C7_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="2875392" MonolithLength="159744"
+          SampleRate="44100"/>
+  <sample Root="108" LoKey="106" HiKey="127" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_C7_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="3035136" MonolithLength="180224"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="26" HiKey="29" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E0_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="3215360" MonolithLength="188416"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="26" HiKey="29" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E0_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="3403776" MonolithLength="192512"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E1_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="3596288" MonolithLength="172032"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E1_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="3768320" MonolithLength="221184"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="50" HiKey="53" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E2_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="3989504" MonolithLength="204800"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="50" HiKey="53" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E2_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="4194304" MonolithLength="221184"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E3_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="4415488" MonolithLength="200704"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E3_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="4616192" MonolithLength="217088"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="74" HiKey="77" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E4_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="4833280" MonolithLength="200704"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="74" HiKey="77" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E4_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="5033984" MonolithLength="217088"
+          SampleRate="44100"/>
+  <sample Root="88" LoKey="86" HiKey="89" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E5_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="5251072" MonolithLength="159744"
+          SampleRate="44100"/>
+  <sample Root="88" LoKey="86" HiKey="89" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E5_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="5410816" MonolithLength="180224"
+          SampleRate="44100"/>
+  <sample Root="100" LoKey="98" HiKey="101" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E6_vl2.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="5591040" MonolithLength="159744"
+          SampleRate="44100"/>
+  <sample Root="100" LoKey="98" HiKey="101" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_E6_vl3.wav" Duplicate="0"
+          SampleStartMod="25000" MonolithOffset="5750784" MonolithLength="180224"
+          SampleRate="44100"/>
+  <sample Root="32" LoKey="30" HiKey="33" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#0_vl2.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="5931008"
+          MonolithLength="192512" SampleRate="44100"/>
+  <sample Root="32" LoKey="30" HiKey="33" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#0_vl3.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="6123520"
+          MonolithLength="200704" SampleRate="44100"/>
+  <sample Root="44" LoKey="42" HiKey="45" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#1_vl2.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="6324224"
+          MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="44" LoKey="42" HiKey="45" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#1_vl3.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="6512640"
+          MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="56" LoKey="54" HiKey="57" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#2_vl2.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="6737920"
+          MonolithLength="200704" SampleRate="44100"/>
+  <sample Root="56" LoKey="54" HiKey="57" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#2_vl3.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="6938624"
+          MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="68" LoKey="66" HiKey="69" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#3_vl2.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="7188480"
+          MonolithLength="200704" SampleRate="44100"/>
+  <sample Root="68" LoKey="66" HiKey="69" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#3_vl3.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="7389184"
+          MonolithLength="212992" SampleRate="44100"/>
+  <sample Root="80" LoKey="78" HiKey="81" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#4_vl2.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="7602176"
+          MonolithLength="200704" SampleRate="44100"/>
+  <sample Root="80" LoKey="78" HiKey="81" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#4_vl3.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="7802880"
+          MonolithLength="217088" SampleRate="44100"/>
+  <sample Root="92" LoKey="90" HiKey="93" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#5_vl2.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="8019968"
+          MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="92" LoKey="90" HiKey="93" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#5_vl3.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="8179712"
+          MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="104" LoKey="102" HiKey="105" LoVel="0" HiVel="85" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#6_vl2.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="8359936"
+          MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="104" LoKey="102" HiKey="105" LoVel="86" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}TX81Z/Piano 1/Piano 1_G#6_vl3.wav"
+          Duplicate="0" SampleStartMod="25000" MonolithOffset="8519680"
+          MonolithLength="180224" SampleRate="44100"/>
+</samplemap>

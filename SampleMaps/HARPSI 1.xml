@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HARPSI 1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#0_rr1.wav"
+          Duplicate="1" SampleStartMod="300000" Volume="2" MonolithOffset="0"
+          MonolithLength="626688" SampleRate="44100"/>
+  <sample Root="46" LoKey="45" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#1_rr1.wav"
+          Duplicate="1" SampleStartMod="170000" MonolithOffset="626688"
+          MonolithLength="335872" SampleRate="44100" SampleStart="354"/>
+  <sample Root="58" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#2_rr1.wav"
+          Duplicate="1" SampleStartMod="195000" MonolithOffset="962560"
+          MonolithLength="397312" SampleRate="44100" SampleStart="149"/>
+  <sample Root="70" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#3_rr1.wav"
+          Duplicate="1" SampleStartMod="115000" MonolithOffset="1359872"
+          MonolithLength="237568" SampleRate="44100"/>
+  <sample Root="82" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_A#4_rr1.wav"
+          Duplicate="1" SampleStartMod="90000" MonolithOffset="1597440"
+          MonolithLength="180224" SampleRate="44100" Volume="1"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C1_rr1.wav"
+          Duplicate="1" SampleStartMod="290000" Volume="3" MonolithOffset="1777664"
+          MonolithLength="585728" SampleRate="44100" SampleStart="447"/>
+  <sample Root="48" LoKey="47" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C2_rr1.wav"
+          Duplicate="1" SampleStartMod="160000" MonolithOffset="2363392"
+          MonolithLength="331776" SampleRate="44100" SampleStart="525"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C3_rr1.wav"
+          Duplicate="1" SampleStartMod="185000" MonolithOffset="2695168"
+          MonolithLength="376832" SampleRate="44100" SampleStart="142"/>
+  <sample Root="72" LoKey="71" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C4_rr1.wav"
+          Duplicate="1" SampleStartMod="140000" MonolithOffset="3072000"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_C5_rr1.wav"
+          Duplicate="1" SampleStartMod="75000" MonolithOffset="3358720"
+          MonolithLength="155648" SampleRate="44100"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D1_rr1.wav"
+          Duplicate="1" SampleStartMod="315000" Volume="2" MonolithOffset="3514368"
+          MonolithLength="630784" SampleRate="44100" SampleStart="321"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D2_rr1.wav"
+          Duplicate="1" SampleStartMod="175000" MonolithOffset="4145152"
+          MonolithLength="352256" SampleRate="44100" SampleStart="531"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D3_rr1.wav"
+          Duplicate="1" SampleStartMod="140000" MonolithOffset="4497408"
+          MonolithLength="282624" SampleRate="44100" SampleStart="234"/>
+  <sample Root="74" LoKey="73" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D4_rr1.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="4780032"
+          MonolithLength="208896" SampleRate="44100"/>
+  <sample Root="86" LoKey="85" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_D5_rr1.wav"
+          Duplicate="1" SampleStartMod="75000" MonolithOffset="4988928"
+          MonolithLength="180224" SampleRate="44100" Volume="2"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E1_rr1.wav"
+          Duplicate="1" SampleStartMod="280000" MonolithOffset="5169152"
+          MonolithLength="569344" SampleRate="44100" SampleStart="1159"/>
+  <sample Root="52" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E2_rr1.wav"
+          Duplicate="1" SampleStartMod="180000" MonolithOffset="5738496"
+          MonolithLength="266240" SampleRate="44100" SampleStart="421"/>
+  <sample Root="64" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E3_rr1.wav"
+          Duplicate="1" SampleStartMod="160000" MonolithOffset="6004736"
+          MonolithLength="319488" SampleRate="44100"/>
+  <sample Root="76" LoKey="75" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E4_rr1.wav"
+          Duplicate="1" SampleStartMod="105000" MonolithOffset="6324224"
+          MonolithLength="217088" SampleRate="44100"/>
+  <sample Root="88" LoKey="87" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_E5_rr1.wav"
+          Duplicate="1" SampleStartMod="60000" MonolithOffset="6541312"
+          MonolithLength="126976" SampleRate="44100" Volume="8"/>
+  <sample Root="42" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#1_rr1.wav"
+          Duplicate="1" SampleStartMod="260000" MonolithOffset="6668288"
+          MonolithLength="528384" SampleRate="44100" SampleStart="438"/>
+  <sample Root="54" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#2_rr1.wav"
+          Duplicate="1" SampleStartMod="215000" Volume="-1" MonolithOffset="7196672"
+          MonolithLength="434176" SampleRate="44100"/>
+  <sample Root="66" LoKey="65" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#3_rr1.wav"
+          Duplicate="1" SampleStartMod="115000" MonolithOffset="7630848"
+          MonolithLength="237568" SampleRate="44100" SampleStart="71"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_F#4_rr1.wav"
+          Duplicate="1" SampleStartMod="90000" MonolithOffset="7868416"
+          MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="44" LoKey="43" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#1_rr1.wav"
+          Duplicate="1" SampleStartMod="205000" MonolithOffset="8048640"
+          MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#2_rr1.wav"
+          Duplicate="1" SampleStartMod="140000" Volume="4" MonolithOffset="8466432"
+          MonolithLength="282624" SampleRate="44100"/>
+  <sample Root="68" LoKey="67" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#3_rr1.wav"
+          Duplicate="1" SampleStartMod="100000" MonolithOffset="8749056"
+          MonolithLength="204800" SampleRate="44100"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Harpsichord, English/Sustains/Normal/ZuckermannKitHarpsi_Normal_Sus_G#4_rr1.wav"
+          Duplicate="1" SampleStartMod="90000" MonolithOffset="8953856"
+          MonolithLength="184320" SampleRate="44100" Volume="2"/>
+</samplemap>

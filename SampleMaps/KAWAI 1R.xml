@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="KAWAI 1R" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="22" LoKey="0" HiKey="23" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#-1_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="0"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="22" LoKey="0" HiKey="23" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#-1_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="36864"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="22" LoKey="0" HiKey="23" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#-1_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="94208"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="59" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#2_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="151552"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="59" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#2_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="192512"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="71" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#3_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="237568"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="70" LoKey="70" HiKey="71" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#3_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="282624"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="82" LoKey="82" HiKey="83" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A#4_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="344064"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A0_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="380928"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A0_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="417792"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A0_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="466944"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A1_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="528384"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A1_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="581632"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A1_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="626688"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A2_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="671744"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_A3_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="729088"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_B4_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="786432"
+          MonolithLength="135168" SampleRate="44100"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_B4_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="921600"
+          MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C0_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1036288"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C0_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1085440"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C0_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1146880"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C1_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1200128"
+          MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C1_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1224704"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C1_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1269760"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C2_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1323008"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="49" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C2_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1368064"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C2_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1396736"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C3_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1445888"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="61" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C3_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1478656"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C3_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1527808"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C4_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1576960"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C4_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1613824"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="72" LoKey="72" HiKey="73" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C4_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1691648"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C5_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1732608"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C5_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1769472"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_C5_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1826816"
+          MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#0_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1912832"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#0_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1945600"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#0_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="1990656"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#1_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2035712"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#1_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2084864"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#1_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2125824"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#2_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2187264"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#2_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2232320"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#3_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2281472"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="87" LoKey="87" HiKey="127" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#5_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2326528"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="87" LoKey="87" HiKey="127" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#5_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2355200"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="87" LoKey="87" HiKey="127" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D#5_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2412544"
+          MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="51" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D2_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2514944"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D2_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2551808"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="63" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D3_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2609152"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="62" LoKey="62" HiKey="63" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D3_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2654208"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D4_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2695168"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D4_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2736128"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="74" LoKey="74" HiKey="75" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_D4_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2797568"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_E2_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2846720"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="52" LoKey="52" HiKey="53" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_E2_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2879488"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_E3_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2936832"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="64" LoKey="64" HiKey="65" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_E3_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="2969600"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_E4_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3006464"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_E4_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3043328"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="76" LoKey="76" HiKey="77" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_E4_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3092480"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#0_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3141632"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#0_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3170304"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#0_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3219456"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#1_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3272704"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#1_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3313664"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#1_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3350528"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="55" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#2_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3399680"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="55" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#2_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3440640"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#2_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3489792"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#3_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3534848"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="67" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#3_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3575808"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#3_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3608576"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#4_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3657728"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#4_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3698688"
+          MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="78" LoKey="78" HiKey="79" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_F#4_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3805184"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="57" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_G#2_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3883008"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="56" LoKey="56" HiKey="57" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_G#2_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3915776"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="69" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_G#3_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="3969024"
+          MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="68" LoKey="68" HiKey="69" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_G#3_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="4001792"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="80" LoKey="80" HiKey="81" LoVel="0" HiVel="59" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_G#4_v2_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="4038656"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="80" LoKey="80" HiKey="82" LoVel="60" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_G#4_v3_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="4075520"
+          MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="80" LoKey="80" HiKey="82" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Kawai/Releases/GPiano_rel_G#4_v4_rr1_Player.wav"
+          Duplicate="0" Volume="5" SampleStartMod="2000" MonolithOffset="4165632"
+          MonolithLength="36864" SampleRate="44100"/>
+</samplemap>

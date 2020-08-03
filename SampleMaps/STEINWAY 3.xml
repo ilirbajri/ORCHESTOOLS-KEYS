@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="STEINWAY 3" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="22" LoKey="0" HiKey="22" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#0_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="0"
+          MonolithLength="1142784" SampleRate="44100" Pan="-40"/>
+  <sample Root="34" LoKey="32" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#1_vl4_rr1.wav"
+          Duplicate="0" Volume="-8" SampleStartMod="100000" MonolithOffset="1142784"
+          MonolithLength="1585152" SampleRate="44100" Pan="-30"/>
+  <sample Root="46" LoKey="45" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#2_vl4_rr1.wav"
+          Duplicate="0" Volume="-7" SampleStartMod="100000" MonolithOffset="2727936"
+          MonolithLength="1609728" SampleRate="44100" Pan="-15"/>
+  <sample Root="70" LoKey="69" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#4_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" SampleStart="1000"
+          MonolithOffset="4337664" MonolithLength="995328" SampleRate="44100"
+          Pan="22"/>
+  <sample Root="82" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#5_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="5332992"
+          MonolithLength="700416" SampleRate="44100" Pan="38"/>
+  <sample Root="94" LoKey="93" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_A#6_vl4_rr1.wav"
+          Duplicate="0" Volume="1" SampleStartMod="100000" MonolithOffset="6033408"
+          MonolithLength="372736" SampleRate="44100" Pan="35"/>
+  <sample Root="24" LoKey="23" HiKey="24" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C1_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="6406144"
+          MonolithLength="1097728" SampleRate="44100" Pan="-40"/>
+  <sample Root="48" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C3_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="7503872"
+          MonolithLength="1458176" SampleRate="44100" Pan="-15"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C4_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="8962048"
+          MonolithLength="1064960" SampleRate="44100" Pan="-12"/>
+  <sample Root="96" LoKey="95" HiKey="96" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_C7_vl4_rr1.wav"
+          Duplicate="0" Volume="3" SampleStartMod="100000" MonolithOffset="10027008"
+          MonolithLength="339968" SampleRate="44100" Pan="35"/>
+  <sample Root="26" LoKey="25" HiKey="26" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D1_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="10366976"
+          MonolithLength="1466368" SampleRate="44100" Pan="-40"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D2_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="11833344"
+          MonolithLength="1724416" SampleRate="44100" Pan="-30"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D3_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="13557760"
+          MonolithLength="1400832" SampleRate="44100" Pan="-15"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D4_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="14958592"
+          MonolithLength="1249280" SampleRate="44100"/>
+  <sample Root="86" LoKey="83" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D6_vl4_rr1.wav"
+          Duplicate="0" Volume="-1" SampleStartMod="100000" MonolithOffset="16207872"
+          MonolithLength="528384" SampleRate="44100" Pan="50"/>
+  <sample Root="98" LoKey="97" HiKey="98" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_D7_vl4_rr1.wav"
+          Duplicate="0" Volume="3" SampleStartMod="100000" MonolithOffset="16736256"
+          MonolithLength="323584" SampleRate="44100" Pan="35"/>
+  <sample Root="28" LoKey="27" HiKey="29" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E1_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="17059840"
+          MonolithLength="1753088" SampleRate="44100" Pan="-40"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E2_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="18812928"
+          MonolithLength="1761280" SampleRate="44100" Pan="-30"/>
+  <sample Root="52" LoKey="51" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E3_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="20574208"
+          MonolithLength="1269760" SampleRate="44100" Pan="-15"/>
+  <sample Root="64" LoKey="63" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E4_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" SampleStart="600"
+          MonolithOffset="21843968" MonolithLength="1212416" SampleRate="44100"/>
+  <sample Root="76" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E5_vl4_rr1.wav"
+          Duplicate="0" Volume="-3" SampleStartMod="100000" MonolithOffset="23056384"
+          MonolithLength="757760" SampleRate="44100" Pan="15"/>
+  <sample Root="88" LoKey="87" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E6_vl4_rr1.wav"
+          Duplicate="0" Volume="-3" SampleStartMod="100000" MonolithOffset="23814144"
+          MonolithLength="405504" SampleRate="44100" Pan="45"/>
+  <sample Root="100" LoKey="99" HiKey="100" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_E7_vl4_rr1.wav"
+          Duplicate="0" Volume="7" SampleStartMod="100000" MonolithOffset="24219648"
+          MonolithLength="311296" SampleRate="44100" Pan="35"/>
+  <sample Root="30" LoKey="30" HiKey="31" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#1_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="24530944"
+          MonolithLength="1495040" SampleRate="44100" Pan="-30"/>
+  <sample Root="42" LoKey="41" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#2_vl4_rr1.wav"
+          Duplicate="0" Volume="-8" SampleStartMod="100000" MonolithOffset="26025984"
+          MonolithLength="1499136" SampleRate="44100" Pan="-30"/>
+  <sample Root="54" LoKey="53" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#3_vl4_rr1.wav"
+          Duplicate="0" Volume="-7" SampleStartMod="100000" MonolithOffset="27525120"
+          MonolithLength="1224704" SampleRate="44100" Pan="-10"/>
+  <sample Root="66" LoKey="65" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#4_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="28749824"
+          MonolithLength="1351680" SampleRate="44100" Pan="-31"/>
+  <sample Root="78" LoKey="77" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#5_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" SampleStart="600"
+          MonolithOffset="30101504" MonolithLength="647168" SampleRate="44100"
+          Pan="30"/>
+  <sample Root="90" LoKey="89" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#6_vl4_rr1.wav"
+          Duplicate="0" Volume="-1" SampleStartMod="100000" MonolithOffset="30748672"
+          MonolithLength="344064" SampleRate="44100" Pan="45"/>
+  <sample Root="102" LoKey="101" HiKey="102" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_F#7_vl4_rr1.wav"
+          Duplicate="0" Volume="4" SampleStartMod="100000" MonolithOffset="31092736"
+          MonolithLength="274432" SampleRate="44100" Pan="35"/>
+  <sample Root="44" LoKey="43" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#2_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="31367168"
+          MonolithLength="1318912" SampleRate="44100" Pan="-15"/>
+  <sample Root="56" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#3_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" MonolithOffset="32686080"
+          MonolithLength="1220608" SampleRate="44100" Pan="-10"/>
+  <sample Root="68" LoKey="67" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#4_vl4_rr1.wav"
+          Duplicate="0" Volume="-8" SampleStartMod="100000" SampleStart="600"
+          MonolithOffset="33906688" MonolithLength="983040" SampleRate="44100"
+          Pan="-31"/>
+  <sample Root="80" LoKey="79" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#5_vl4_rr1.wav"
+          Duplicate="0" Volume="-6" SampleStartMod="100000" SampleStart="600"
+          MonolithOffset="34889728" MonolithLength="606208" SampleRate="44100"
+          Pan="20"/>
+  <sample Root="92" LoKey="91" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#6_vl4_rr1.wav"
+          Duplicate="0" Volume="2" SampleStartMod="100000" MonolithOffset="35495936"
+          MonolithLength="352256" SampleRate="44100" Pan="35"/>
+  <sample Root="104" LoKey="103" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Grand Piano, Steinway B/Sus/JHPiano_Sus_Close_G#7_vl4_rr1.wav"
+          Duplicate="0" Volume="3" SampleStartMod="100000" MonolithOffset="35848192"
+          MonolithLength="270336" SampleRate="44100" Pan="35"/>
+</samplemap>
